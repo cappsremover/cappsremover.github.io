@@ -124,7 +124,14 @@
       "package_name": "com.intsig.camscanner",
       "app_name": "Cam Scanner",
       "alternatives": [
-        {"name":"Adobe Scan","pkg":"com.adobe.scan.android","icon":"","origin":""}
+        {"name":"Adobe Scan1","pkg":"com.adobe.scan.android","icon":"https://lh3.googleusercontent.com/VfzEt_p5VsWVUWThiy9_iia6-conkFN_UOCvC_NGEbD5542Mx8iWULBBH02ONenZnA=s180-rw","origin":""},
+        {"name":"Adobe Scan2","pkg":"com.adobe.scan.android","icon":"","origin":"USA"}.
+        {"name":"Adobe Scan3","pkg":"com.adobe.scan.android","icon":"","origin":""},
+        {"name":"Adobe Scan4","pkg":"com.adobe.scan.android","icon":"","origin":""}.
+        {"name":"Adobe Scan5","pkg":"com.adobe.scan.android","icon":"","origin":""},
+        {"name":"Adobe Scan6","pkg":"com.adobe.scan.android","icon":"","origin":""}.
+        {"name":"Adobe Scan7","pkg":"com.adobe.scan.android","icon":"","origin":""},
+        {"name":"Adobe Scan8","pkg":"com.adobe.scan.android","icon":"","origin":""}.
         ],
       "reason": ""
     },
