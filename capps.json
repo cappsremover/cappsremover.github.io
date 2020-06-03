@@ -1,0 +1,778 @@
+{
+  "capps": [
+    {
+      "package_name": "com.security.antivirus.sefeanti",
+      "app_name": "360 Mobile Guard",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.airbrush.vivo",
+      "app_name": "AirBrush 2Go",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.magicv.airbrush",
+      "app_name": "AirBrush: Easy Photo Editor",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.airvid",
+      "app_name": "AirVid Video Filters & Frames",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.alibaba.intl.android.apps.poseidon",
+      "app_name": "Alibaba.com",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.alibaba.aliexpresshd",
+      "app_name": "AliExpress",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.snowwhiteapps.downloader",
+      "app_name": "All video downloader",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.domobile.applockwatcher",
+      "app_name": "AppLock",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.domobile.applock.lite",
+      "app_name": "AppLock lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.zproj.applockz",
+      "app_name": "AppLockZ by Zapya",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.apusapps.browser",
+      "app_name": "APUS Browser",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ngame.allstar.eu",
+      "app_name": "Arena of Valor",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.lilithgame.sgame.gp.oss",
+      "app_name": "Art of conquest",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.baidu.searchbox",
+      "app_name": "Baidu",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.baidu.BaiduMap",
+      "app_name": "Baidu Map",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.banggood.client",
+      "app_name": "banggood",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.meiyancamera",
+      "app_name": "BeautyCam",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.commsource.beautyplus",
+      "app_name": "BeautyPlus",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "sg.bigo.live",
+      "app_name": "Bigo Live",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.boxxcam",
+      "app_name": "BOXxCAM",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.intsig.camscanner",
+      "app_name": "Cam Scanner",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.intsig.BCRLite",
+      "app_name": "CamCard Free",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.igg.castleclash",
+      "app_name": "Castle Cash",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.jetstartgames.chess",
+      "app_name": "Cheez",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.godgame",
+      "app_name": "Chess Rush",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.xinlukou.metroman",
+      "app_name": "China Metro",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.hcg.cok.gp",
+      "app_name": "Clash of Kings",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.hcg.ctw.gp",
+      "app_name": "Clash of Kings:The West",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.elex.coq.gp",
+      "app_name": "Clash of Queens",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "club.fromfactory",
+      "app_name": "ClubFactory",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.cm.browser.downloader.adblock",
+      "app_name": "CM Browser",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dating.android",
+      "app_name": "Dating.com",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.alibaba.android.rimet",
+      "app_name": "DingTalk",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.alibaba.dingtalk.global",
+      "app_name": "DingTalk Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.limsky.ramcleaner",
+      "app_name": "DU Battery Saver",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.DU.Cleaner.antivirus.cleanphone",
+      "app_name": "DU Cleaner",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tool.fileexplorer.filemanager.filetransfer",
+      "app_name": "ES File Manager",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.file.manager.filebrowser",
+      "app_name": "File Explorer File Manager",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.filez",
+      "app_name": "FileZ - Easy File Manager",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.flashkeyboardtheme",
+      "app_name": "Flash Keyboard",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dc.hwsj",
+      "app_name": "Game of Sultans",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.diandian.gog",
+      "app_name": "Guns of glory",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "sg.bigo.hellotalk",
+      "app_name": "Hello Yo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "app.buzz.share",
+      "app_name": "Helo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "app.buzz.share.lite",
+      "app_name": "Helo Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.hcg.tos.gp",
+      "app_name": "Heroes War",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.alibaba.aliexpress.itao",
+      "app_name": "iTao",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.funplus.kingofavalon",
+      "app_name": "Kings of Avalon",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.kwai.video",
+      "app_name": "Kwai",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.gtarcade.lod",
+      "app_name": "Lagecy of discord",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.longtech.lastwars.gp",
+      "app_name": "Last empire",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.live.royal",
+      "app_name": "LiveMe",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.videochat.livu",
+      "app_name": "Livu",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.ludosuperstar",
+      "app_name": "Ludo World",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.yottagames.mafiawar",
+      "app_name": "Mafia City",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.netease.mail",
+      "app_name": "Mail Master",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.makeup",
+      "app_name": "MakeupPlus",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.meipaimv",
+      "app_name": "Meipai",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.mt.mtxx.mtxx",
+      "app_name": "Meitu",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.mi.global.bbs",
+      "app_name": "Mi Community",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.micredit.in.gp",
+      "app_name": "Mi Credit",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.mipay.in.wallet",
+      "app_name": "mi pay",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.duokan.phone.remotecontroller",
+      "app_name": "mi remote control",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.mi.global.shop",
+      "app_name": "Mi Store",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.miui.videoplayer",
+      "app_name": "Mi Video call-Xiaomi",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.mobile.legends",
+      "app_name": "Mobile Legends",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.musicplayer.musica.musicapps.playermusic",
+      "app_name": "Music Player",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaibao.gp",
+      "app_name": "MyDearest",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.newsdog",
+      "app_name": "NewsDog",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.nono.android",
+      "app_name": "NonoLive",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.oxygen",
+      "app_name": "O2Cam",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.lbe.parallel.intl",
+      "app_name": "Parallel Space",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.cyberlink.youperfect",
+      "app_name": "Perfect Corp",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.yubitu.android.YubiCollage",
+      "app_name": "Photo Wonder",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.pleco.chinesesystem",
+      "app_name": "Pleco",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.beautyplusme",
+      "app_name": "PlusMe Camera",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.beautyplus.pomelo.filters.photo",
+      "app_name": "Pomelo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.mobileqq",
+      "app_name": "QQ",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.androidqqmail",
+      "app_name": "QQ Mail",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.qqmusic",
+      "app_name": "QQ Music",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.recorder",
+      "app_name": "RecorderZ - Screen Recorder by Zapya",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.romwe",
+      "app_name": "Romwe",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.zproj.screenlockz",
+      "app_name": "ScreenLockZ by Zapya",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.meitu.wheecam",
+      "app_name": "SelfieCity",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.lenovo.anyshare.gps",
+      "app_name": "SHAREit",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "shareit.lite",
+      "app_name": "SHAREit Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.zzkko",
+      "app_name": "Shein",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.sina.weibo",
+      "app_name": "Sina Weibo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.taobao.taobao",
+      "app_name": "Taobao",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.zhiliaoapp.musically",
+      "app_name": "TikTok",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ss.android.ugc.trill.go",
+      "app_name": "TikTok Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.zhiliaoapp.musically.go",
+      "app_name": "TikTok Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.zhiliao.musically.livewallpaper",
+      "app_name": "TikTok Wall Picture",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "free.vpn.unblock.proxy.turbovpn",
+      "app_name": "Turbo VPN",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ucturbo",
+      "app_name": "UC Browser Turbo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.CricChat.intl",
+      "app_name": "UC Cricket",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.uc.iflow",
+      "app_name": "UC News",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.UCMobile.intl",
+      "app_name": "UCBrowser",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.uc.browser.en",
+      "app_name": "UCBrowser Mini",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.youdao.hindict",
+      "app_name": "Udictionary",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.asiainno.uplive",
+      "app_name": "Uplive",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.netqin.ps",
+      "app_name": "Vault-Hide",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ss.android.ugc.boomlite",
+      "app_name": "Vigo Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ss.android.ugc.boom",
+      "app_name": "Vigo Video",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ss.android.ugc.boom.livewallpaper",
+      "app_name": "Vigo Video Live Photo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.HIsecurity.antivirus.litepro",
+      "app_name": "Virus Cleaner (Hi Security Lab)",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.quvideo.xiaoying",
+      "app_name": "viva Video",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.quvideo.vivavideo.lite",
+      "app_name": "VivaVideo- QU Video Inc",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.uc.vmate",
+      "app_name": "VMate",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.ushareit.watchit",
+      "app_name": "WATCHit",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.qidian.Int.reader",
+      "app_name": "Web Novel",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.tencent.mm",
+      "app_name": "Wechat",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.weico.international",
+      "app_name": "Weibo",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.etekcity.vesyncplatform",
+      "app_name": "WeSync",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.moffice_eng",
+      "app_name": "WPS Office",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.moffice_extra",
+      "app_name": "WPS Office Extra",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.moffice_i18n",
+      "app_name": "WPS Office Lite",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.pdf",
+      "app_name": "WPS PDF",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.pdf.fillsign",
+      "app_name": "WPS PDF Fill",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.wps.moffice_premium",
+      "app_name": "WPS Premium Subscription",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "cn.xender",
+      "app_name": "Xender",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.cyberlink.youcammakeup",
+      "app_name": "YouCam Makeup",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "om.dewmobile.kuaiya.play",
+      "app_name": "Zapya - File Transfer, Sharing Music Playlist",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.game.airhockey.play",
+      "app_name": "Zapya Air Hockey",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.paintpad.play",
+      "app_name": "Zapya Doodle",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.zapyago",
+      "app_name": "Zapya Go - From File Transfer to Private Social",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.game",
+      "app_name": "Zapya MiniGame",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.dewmobile.kuaiya.web",
+      "app_name": "Zapya WebShare - File Sharing in Web Browser",
+      "alternatives": "",
+      "reason": ""
+    },
+    {
+      "package_name": "com.zw.zombieworld.gp",
+      "app_name": "Zombie World SLG 3D",
+      "alternatives": "",
+      "reason": ""
+    }
+  ]
+}
