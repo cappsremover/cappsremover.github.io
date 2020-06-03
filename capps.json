@@ -124,7 +124,7 @@
       "package_name": "com.intsig.camscanner",
       "app_name": "Cam Scanner",
       "alternatives": [
-        {"name":"Adobe Scan","pkg":"com.adobe.scan.android"}
+        {"name":"Adobe Scan","pkg":"com.adobe.scan.android","icon":"","origin":""}
         ],
       "reason": ""
     },
