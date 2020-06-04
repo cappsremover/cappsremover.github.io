@@ -124,14 +124,7 @@
       "package_name": "com.intsig.camscanner",
       "app_name": "Cam Scanner",
       "alternatives": [
-        {"name":"Adobe Scan1","pkg":"com.adobe.scan.android","icon":"https://lh3.googleusercontent.com/VfzEt_p5VsWVUWThiy9_iia6-conkFN_UOCvC_NGEbD5542Mx8iWULBBH02ONenZnA=s180-rw","origin":""},
-        {"name":"Adobe Scan2","pkg":"com.adobe.scan.android","icon":"","origin":"USA"},
-        {"name":"Adobe Scan3","pkg":"com.adobe.scan.android","icon":"","origin":""},
-        {"name":"Adobe Scan4","pkg":"com.adobe.scan.android","icon":"","origin":""},
-        {"name":"Adobe Scan5","pkg":"com.adobe.scan.android","icon":"","origin":""},
-        {"name":"Adobe Scan6","pkg":"com.adobe.scan.android","icon":"","origin":""},
-        {"name":"Adobe Scan7","pkg":"com.adobe.scan.android","icon":"","origin":""},
-        {"name":"Adobe Scan8","pkg":"com.adobe.scan.android","icon":"","origin":""}
+        {"name":"Adobe Scan","pkg":"com.adobe.scan.android","icon":"https://lh3.googleusercontent.com/VfzEt_p5VsWVUWThiy9_iia6-conkFN_UOCvC_NGEbD5542Mx8iWULBBH02ONenZnA=s180-rw","origin":""},
         ],
       "reason": ""
     },
@@ -546,19 +539,28 @@
     {
       "package_name": "com.zhiliaoapp.musically",
       "app_name": "TikTok",
-      "alternatives": "",
+      "alternatives": [
+        {"name":"Bolo Indya","pkg":"com.boloindya.boloindya","icon":"https://lh3.googleusercontent.com/vMNps7Yuhj5puYtlwwEPKLAy3ndEtnQSdRk7jYKb1ZGVYPJJ97HpDyCo2SahYBOyNQ=s180-rw","origin":"Indian"},
+        {"name":"Roposo","pkg":"com.roposo.android","icon":"https://lh3.googleusercontent.com/WvgZ2Q13B1Sj2I5lbhteXz-kUOju7XyOcow6JKah8oqySnkV989pFY1UJ2s-BrkfuS0=s180-rw","origin":"Indian"}
+        ],
       "reason": ""
     },
     {
       "package_name": "com.ss.android.ugc.trill.go",
       "app_name": "TikTok Lite",
-      "alternatives": "",
+      "alternatives": [
+        {"name":"Bolo Indya","pkg":"com.boloindya.boloindya","icon":"https://lh3.googleusercontent.com/vMNps7Yuhj5puYtlwwEPKLAy3ndEtnQSdRk7jYKb1ZGVYPJJ97HpDyCo2SahYBOyNQ=s180-rw","origin":"Indian"},
+        {"name":"Roposo","pkg":"com.roposo.android","icon":"https://lh3.googleusercontent.com/WvgZ2Q13B1Sj2I5lbhteXz-kUOju7XyOcow6JKah8oqySnkV989pFY1UJ2s-BrkfuS0=s180-rw","origin":"Indian"}
+        ],
       "reason": ""
     },
     {
       "package_name": "com.zhiliaoapp.musically.go",
       "app_name": "TikTok Lite",
-      "alternatives": "",
+      "alternatives": [
+        {"name":"Bolo Indya","pkg":"com.boloindya.boloindya","icon":"https://lh3.googleusercontent.com/vMNps7Yuhj5puYtlwwEPKLAy3ndEtnQSdRk7jYKb1ZGVYPJJ97HpDyCo2SahYBOyNQ=s180-rw","origin":"Indian"},
+        {"name":"Roposo","pkg":"com.roposo.android","icon":"https://lh3.googleusercontent.com/WvgZ2Q13B1Sj2I5lbhteXz-kUOju7XyOcow6JKah8oqySnkV989pFY1UJ2s-BrkfuS0=s180-rw","origin":"Indian"}
+        ],
       "reason": ""
     },
     {
@@ -570,7 +572,9 @@
     {
       "package_name": "free.vpn.unblock.proxy.turbovpn",
       "app_name": "Turbo VPN",
-      "alternatives": "",
+      "alternatives": [
+        {"name":"Psiphon Pro","pkg":"com.psiphon3.subscription","icon":"https://lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=s180-rw","origin":""}
+        ],
       "reason": ""
     },
     {
